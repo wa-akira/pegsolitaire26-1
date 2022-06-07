@@ -1,0 +1,1 @@
+# pegsolitaire26-1
